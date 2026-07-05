@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "delay-mod",
+	"version": "${version}",
+	"name": "Delay Mod",
+	"description": "Client-side HUD that shows grounded delay ticks with a movable overlay and /delay commands.",
+	"authors": [
+		"konqasasas"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/delay-mod",
+		"sources": "https://github.com/konqasasas/Delay-Mod"
+	},
+	"license": "MIT",
+	"icon": "assets/delay-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.konqasasas.DelayMod"
+		],
+		"client": [
+			"com.konqasasas.DelayModClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

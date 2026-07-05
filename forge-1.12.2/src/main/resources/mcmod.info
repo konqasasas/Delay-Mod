@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "delaymod",
+    "name": "Delay Mod",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "description": "Client-side HUD that shows grounded delay ticks with movable overlay and /delay commands.",
+    "authorList": ["konqasasas"]
+  }
+]
