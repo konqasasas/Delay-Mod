@@ -1,6 +1,6 @@
 # Delay Mod (Forge 1.12.2 / Fabric 1.21.11)
 
-[こちら](https://www.curseforge.com/minecraft/mc-mods/delay-mod/preview)からのDLをお勧めします。
+[こちら](https://www.curseforge.com/minecraft/mc-mods/delay-mod/files/all?page=1&pageSize=20&showAlphaFiles=hide)からダウンロードできます。
 
 ディレイ (地面との接地時間)をHUDに表示するクライアントmodです。
 
